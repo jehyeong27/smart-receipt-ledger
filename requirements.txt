@@ -1,9 +1,4 @@
-torch==2.1.2 --index-url https://download.pytorch.org/whl/cpu
-torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cpu
+streamlit
 opencv-python-headless
 numpy<2.0.0
-streamlit
-paddlepaddle==2.5.2
-paddleocr
-matplotlib
 pillow
